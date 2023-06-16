@@ -3,7 +3,7 @@ Welcome to the official repository of the Dynamic Amazon Clone website! This rep
 
 # Features
 User Registration and Authentication
-Users can create accounts and securely log in to the Dynamic Amazon Clone using their email addresses or social media accounts. Robust authentication mechanisms are implemented to ensure the privacy and security of user data.![Screenshot (34)](https://github.com/LaxmanMurmu/Amazon_Clone/assets/75252155/75eaf600-d229-431e-940d-d2cfc5a02df3)
+Users can create accounts and securely log in to the Dynamic Amazon Clone using their email addresses or social media accounts. Robust authentication mechanisms are implemented to ensure the privacy and security of user data.
 ![Screenshot (34)](https://github.com/LaxmanMurmu/Amazon_Clone/assets/75252155/d286e8a2-a553-4a0d-9723-9c141469f021)
 ![Screenshot (35)](https://github.com/LaxmanMurmu/Amazon_Clone/assets/75252155/f044beb6-2cca-4101-a472-7d3a0772a535)
 
