@@ -25,6 +25,12 @@ Users can track the status of their orders, including shipping details and expec
 ![Screenshot (43)](https://github.com/LaxmanMurmu/Amazon_Clone/assets/75252155/b657971a-553b-4799-b6eb-014120a5dcca)
 ![Screenshot (44)](https://github.com/LaxmanMurmu/Amazon_Clone/assets/75252155/a4dae719-fb96-4e47-83a2-d00df9f89003)
  
-# Address and Order Pade
+ 
+# Address and Order Page
 ![Screenshot (46)](https://github.com/LaxmanMurmu/Amazon_Clone/assets/75252155/9d01baa5-0f90-49ba-96d8-3f2d0c16267c)
 ![Screenshot (45)](https://github.com/LaxmanMurmu/Amazon_Clone/assets/75252155/67d2c944-c654-4cbf-bb09-561bc27b0dd8)
+
+
+# Seller Dashboard(Admin Pannel fully dynamic) Overall look
+The website includes a dedicated dashboard for sellers to manage their products, inventory, and order fulfillment. Sellers can track sales, update product information, and communicate with customers.
+![Screenshot (49)](https://github.com/LaxmanMurmu/Amazon_Clone/assets/75252155/34e646bf-380f-4ad9-8d1c-e8265b2b7453)
